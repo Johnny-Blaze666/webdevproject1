@@ -1,6 +1,7 @@
 {
   "name": "webdevproject1",
   "version": "1.0.0",
+
   "description": "Individual Midterm project using node js, playwright and git",
   "main": "index.js",
   "scripts": {
@@ -21,4 +22,8 @@
     "url": "https://github.com/Johnny-Blaze666/webdevproject1/issues"
   },
   "homepage": "https://github.com/Johnny-Blaze666/webdevproject1#readme"
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.10"
+  }
 }
