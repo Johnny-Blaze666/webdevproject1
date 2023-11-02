@@ -1,12 +1,26 @@
 {
   "name": "webdevproject1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Individual Midterm project using node js, playwright and git",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnny-Blaze666/webdevproject1.git"
+  },
+  "keywords": [
+    "midterm",
+    "individual",
+    "project"
+  ],
+  "author": "Johnny Rivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johnny-Blaze666/webdevproject1/issues"
+  },
+  "homepage": "https://github.com/Johnny-Blaze666/webdevproject1#readme"
   "devDependencies": {
     "@playwright/test": "^1.39.0",
     "@types/node": "^20.8.10"
