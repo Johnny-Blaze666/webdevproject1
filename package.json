@@ -1,7 +1,6 @@
 {
   "name": "webdevproject1",
   "version": "1.0.0",
-
   "description": "Individual Midterm project using node js, playwright and git",
   "main": "index.js",
   "scripts": {
