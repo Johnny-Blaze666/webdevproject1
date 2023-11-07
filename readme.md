@@ -6,10 +6,10 @@ Although there are atributes about other archetype's such as the Innocent and Sa
 
 For the font I chose Merienda, because it is elegant, easy to read and narrow typeface that allows for more words to fit on a line. I varied the size of the headings, body and contact information.
 
-The color scheme is monochromatic palette of dark gray (`#333`) and a muted shade of brown (`#7B6F63`), with blue lines (`#0077cc`)breaking each section. These colors are representative of the Exlporers connection with nature.
+The color scheme is monochromatic palette of dark gray ('#F5512A'), and a ligh brown (`#FBFFFF`), with blue lines (`#0077cc`)breaking each section. These colors are representative of the Exlporers connection with nature.
 
-The background image is a personal picture of mine overseeing the ocean at sunset, taken that lighthouse in Rincon, Puerto Rico. This is demonstrative of the adventurous, patient spirit of the Explorer that can at times isolated and alone.
+The background image was downloaded from Unsplash, of a lighthouse. This is demonstrative of the adventurous, patient spirit of the Explorer that can at times isolated and alone.
 
-![Screenshot of my Styled Resume](Desktop - 1.png)
+![Screenshot of my Styled Resume](./docs/images/Desktop%20-%201.png)
 
 Through my design I attempted to depict the good nature, thoughtfulness and at times the isolation that embodies the Explorer.
